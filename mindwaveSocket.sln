@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mindwaveSocket", "mindwaveSocket\mindwaveSocket.csproj", "{0E24515D-AC1B-4E87-91ED-11128B592CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E24515D-AC1B-4E87-91ED-11128B592CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E24515D-AC1B-4E87-91ED-11128B592CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E24515D-AC1B-4E87-91ED-11128B592CBD}.Debug|x64.ActiveCfg = Debug|x64
+		{0E24515D-AC1B-4E87-91ED-11128B592CBD}.Debug|x64.Build.0 = Debug|x64
+		{0E24515D-AC1B-4E87-91ED-11128B592CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E24515D-AC1B-4E87-91ED-11128B592CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E24515D-AC1B-4E87-91ED-11128B592CBD}.Release|x64.ActiveCfg = Release|x64
+		{0E24515D-AC1B-4E87-91ED-11128B592CBD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5727D7CC-9F90-46A5-9669-77F0BD034DC0}
+	EndGlobalSection
+EndGlobal
