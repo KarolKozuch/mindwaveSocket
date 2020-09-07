@@ -195,7 +195,7 @@ class mindwaveSocketMain
         {
             int noOfEegData = data.addEegData(readPackets(TG_stream));
             clientTimer.Stop();
-            if(clientTimer.ElapsedMilliseconds > 500)
+            if(clientTimer.ElapsedMilliseconds > 100)
             {
                 clientTimer.Reset();
                 /* Send data to matlab */
